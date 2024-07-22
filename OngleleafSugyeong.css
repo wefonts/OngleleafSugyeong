@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "OngleleafSugyeong";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafSugyeong/OngleleafSugyeong.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafSugyeong/OngleleafSugyeong.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafSugyeong/OngleleafSugyeong.ttf") format("truetype");
+    font-display: swap;
+}
+
+.OngleleafSugyeong {
+    font-family: "OngleleafSugyeong";
+}
